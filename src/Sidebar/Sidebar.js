@@ -26,7 +26,7 @@ export const Sidebar = () => {
       </div>
       <div className="sidebaer_button">
         <PlayArrowIcon />
-        You like 
+        You 
       </div>
     </div>
   );
