@@ -22,11 +22,11 @@ export const Sidebar = () => {
       </div>
       <div className="sidebaer_button">
         <PlayCircleIcon />
-        Subscriptions
+        Subscriptionss
       </div>
       <div className="sidebaer_button">
         <PlayArrowIcon />
-        You like
+        You likes
       </div>
     </div>
   );
