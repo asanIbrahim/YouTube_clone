@@ -8,13 +8,13 @@ import "./Sidebar.css"
 
 export const Sidebar = () => {
   return (
-    <div className="sideba">
+    <div className="sidebar">
       <div className="MenuBar">
         <MenuIcon />
       </div>
       <div className="sidebaer_button">
         <HomeIcon />
-        Home
+        Homes
       </div>
       <div className="sidebaer_button">
         <OndemandVideoIcon />
