@@ -17,7 +17,7 @@ export const Sidebar = () => {
         Homes
       </div>
       <div className="sidebaer_button">
-        <OndemandVideoIcon />
+        <OndemandVieoIcon />
         Shorts
       </div>
       <div className="sidebaer_button">
