@@ -3,7 +3,7 @@ import { Sidebar } from '../Sidebar/Sidebar'
 
 function Home() {
   return (
-    <div className='asan'><Sidebar/></div>
+    <div><Sidebar/></div>
   )
 }
 
