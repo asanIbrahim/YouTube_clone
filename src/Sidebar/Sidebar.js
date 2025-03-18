@@ -22,7 +22,7 @@ export const Sidebar = () => {
       </div>
       <div className="sidebaer_button">
         <PlayCircleIcon />
-        Subscription
+        Subscriptionsss
       </div>
       <div className="sidebaer_button">
         <PlayArrowIcon />
