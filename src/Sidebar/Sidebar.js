@@ -13,11 +13,11 @@ export const Sidebar = () => {
       </div>
       <div className="sidebaer_button">
         <HomeIcon />
-        Homess
+        Homes
       </div>
       <div className="sidebaer_button">
         <OndemandVideoIcon />
-        Shorts
+        Short
       </div>
       <div className="sidebaer_button">
         <PlayCircleIcon />
