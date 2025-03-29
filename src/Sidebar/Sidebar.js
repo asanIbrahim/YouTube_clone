@@ -3,7 +3,7 @@ import MenuIcon from "@mui/icons-material/Menu";
 import HomeIcon from "@mui/icons-material/Home";
 import OndemandVideoIcon from "@mui/icons-material/OndemandVideo";
 import PlayCircleIcon from "@mui/icons-material/PlayCircle";
-import "./Sidebar.css"
+import "./Sidebar.css";
 
 export const Sidebar = () => {
   return (
@@ -17,16 +17,13 @@ export const Sidebar = () => {
       </div>
       <div className="sidebaer_button">
         <OndemandVideoIcon />
-        Short
+        Shorts
       </div>
       <div className="sidebaer_button">
         <PlayCircleIcon />
         Subscription
       </div>
-      <div className="sidebaer_button">
-        
-        You like
-      </div>
+      <div className="sidebaer_button">You like</div>
     </div>
   );
 };
