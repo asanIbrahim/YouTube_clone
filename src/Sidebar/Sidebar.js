@@ -21,7 +21,7 @@ export const Sidebar = () => {
       </div>
       <div className="sidebaer_button">
         <PlayCircleIcon />
-        Subscriptionss
+        Subscription
       </div>
       <div className="sidebaer_button">You like</div>
     </div>
